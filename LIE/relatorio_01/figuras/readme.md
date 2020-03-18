@@ -1,0 +1,1 @@
+Figuras utilizadas no relatório.
