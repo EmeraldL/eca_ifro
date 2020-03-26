@@ -3,10 +3,10 @@
 
 *Olá! Sou a acadêmica Larissa Samara Paula de França e aqui deixarei como acervo meus arquivos, trabalhos e projetos desenvolvidos durante as disciplinas do curso*  
   
-- [Modelagem de Sistemas Dinâmicos](https://github.com/EmeraldL/eca_ifro/tree/master/MSD)  
-- [Laboratório de Instalações Elétricas](https://github.com/EmeraldL/eca_ifro/tree/master/LIE)  
-- [Lógica de Programação](https://github.com/EmeraldL/my_codes/tree/master/my_submissions_UOJ)  
-- [Linguagem de Programação](https://github.com/EmeraldL/my_codes)  
+- <a href="https://github.com/EmeraldL/eca_ifro/tree/master/MSD" target="_blank">Modelagem de Sistemas Dinâmicos</a>  
+- <a href="https://github.com/EmeraldL/eca_ifro/tree/master/LIE" target="_blank">Laboratório de Instalações Elétricas</a>  
+- <a href="https://github.com/EmeraldL/my_codes/tree/master/my_submissions_UOJ" target="_blank">Lógica de Programação</a>  
+- <a href="https://github.com/EmeraldL/my_codes" target="_blank">Linguagem de Programação</a>  
 
 ### Meus Contatos:  
   
