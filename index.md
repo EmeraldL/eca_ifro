@@ -12,5 +12,5 @@
   
 <b>E-mail:</b> larissa.oks@gmail.com  
 <b>Linked In:</b> <a href="https://www.linkedin.com/in/lspf/" target="_blank">https://www.linkedin.com/in/lspf/</a>  
-<b>Instagram:</b> <a href="https://www.instagram.com/emerald_lah/" target="_blank">@emerald_lah</a>  
+<b>Instagram:</b> <a href="https://www.instagram.com/larissa.spf/" target="_blank">@larissa.spf</a>  
 <b>Currículo Lattes:</b> <a href="http://lattes.cnpq.br/3588136289045136" target="_blank">FRANÇA, L. S. P.</a>
